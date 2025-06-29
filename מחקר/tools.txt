@@ -1,0 +1,47 @@
+psh-
+powershellempire 
+av evasion-
+shellter
+macropack
+invoke obfuscation
+web-
+beef
+burpsuite
+owasp zap
+nikto
+dirb
+gobuster
+owasp amass
+sqlmap
+client attack-
+gopish
+network-
+namp 
+wireshark
+enum-
+net-bios tools
+smbclient
+psexec.py
+crackmapexec
+SMTP-user-enum
+finger-user-enum
+rpcclient
+enum4linux
+Bash Shell
+smbmap
+others-
+msfconsole
+msfvenom
+privilege escalation-
+akagi64
+pwn - 
+pwntools 
+pwndbg
+gdb
+readelf
+patchelf
+pwn template
+ghidra
+IDA Pro
+
+
