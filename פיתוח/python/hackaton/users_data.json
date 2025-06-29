@@ -1,0 +1,20 @@
+[
+    {
+        "username": "omer",
+        "password": "o",
+        "role": "user",
+        "connect": false
+    },
+    {
+        "username": "ido",
+        "password": "i",
+        "role": "admin",
+        "connect": false
+    },
+    {
+        "username": "p",
+        "password": "p",
+        "role": "user",
+        "connect": false
+    }
+]

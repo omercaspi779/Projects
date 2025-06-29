@@ -1,0 +1,30 @@
+[
+    {
+        "username": "o",
+        "password": "p",
+        "gameLevel": "1",
+        "gamePoints": 14,
+        "ip": "192.168.56.1"
+    },
+    {
+        "username": "p",
+        "password": "o",
+        "gameLevel": "1",
+        "gamePoints": 14,
+        "ip": "192.168.56.1"
+    },
+    {
+        "username": "omer",
+        "password": "o",
+        "gameLevel": "1",
+        "gamePoints": 14,
+        "ip": "192.168.56.1"
+    },
+    {
+        "username": "omer34",
+        "password": "eldad",
+        "gameLevel": "1",
+        "gamePoints": 14,
+        "ip": "192.168.56.1"
+    }
+]
